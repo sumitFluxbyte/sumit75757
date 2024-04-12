@@ -7,6 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumit75757" alt="sumit75757" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/sumitpatel2504" target="blank"><img src="https://img.shields.io/twitter/follow/sumitpatel2504?logo=twitter&style=for-the-badge" alt="sumitpatel2504" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🌱 I’m currently learning **Reactjs and node js**
 
@@ -15,7 +16,6 @@
 - 📫 How to reach me **patelsumit75757@gmail.com**
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1TY-PayCft7AT9s13kRHc8iMO9BW_zOR1/view?usp=sharing" target="blank">here</a>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
